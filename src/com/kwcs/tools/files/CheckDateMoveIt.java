@@ -47,10 +47,10 @@ public class CheckDateMoveIt {
     
     private void usage() {
 
-        String [] usage = {"Usage: CheckDaateMoveIt <source>", "", 
+        String [] usage = {"Usage: CheckDateMoveIt <source>", "", 
                 "Where: <source> is the directory that contains many subfolder of files" };
         
-        for (int i = 0; i < usage.length; i++) {        
+        for (int i = 0; i < usage.length; i++) {
             System.out.println(usage[i]);
         }
     }

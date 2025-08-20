@@ -8,4 +8,8 @@
 
 # Build folders
 bin/
+build/
+
+# JAR files
+*.jar
 
